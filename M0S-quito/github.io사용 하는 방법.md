@@ -1,5 +1,6 @@
 # github기본 사용법
 
+##  집가고싶다
 ## 1. vscode와 git설정하기
 #### 1.**vscode** 및 **git**다운로드 
 #### 2. vscode 에 들어가서 **Ctrl+Shift+p** 명렁어 팔렛트 열기
